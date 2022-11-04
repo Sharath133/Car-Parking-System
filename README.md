@@ -1,7 +1,3 @@
-Team-Members:
-
-M.N.S.M.S.Vishnu (2020CSB1097) 
-D.V.S.Lasyanth (2020CSB1083)
 
 Title: Car Parking System(for parking slots of 7 cars).
 
